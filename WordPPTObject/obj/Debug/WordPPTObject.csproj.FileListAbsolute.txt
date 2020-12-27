@@ -1,0 +1,9 @@
+E:\2223\WordPPTObject\WordPPTObject\bin\Debug\WordPPTObject.exe.config
+E:\2223\WordPPTObject\WordPPTObject\bin\Debug\WordPPTObject.exe
+E:\2223\WordPPTObject\WordPPTObject\bin\Debug\WordPPTObject.pdb
+E:\2223\WordPPTObject\WordPPTObject\obj\Debug\WordPPTObject.csprojResolveAssemblyReference.cache
+E:\2223\WordPPTObject\WordPPTObject\obj\Debug\WordPPTObject.Form1.resources
+E:\2223\WordPPTObject\WordPPTObject\obj\Debug\WordPPTObject.Properties.Resources.resources
+E:\2223\WordPPTObject\WordPPTObject\obj\Debug\WordPPTObject.csproj.GenerateResource.Cache
+E:\2223\WordPPTObject\WordPPTObject\obj\Debug\WordPPTObject.exe
+E:\2223\WordPPTObject\WordPPTObject\obj\Debug\WordPPTObject.pdb
